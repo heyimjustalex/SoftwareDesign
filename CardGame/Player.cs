@@ -52,7 +52,7 @@ namespace CardGame
         }
     }
 
-    //Mod 1 - adding weak player
+    //EX4 - adding weak player
 
     class WeakPlayer : Player
     {

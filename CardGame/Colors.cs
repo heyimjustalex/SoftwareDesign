@@ -8,6 +8,7 @@ namespace CardGame
         public static List<string> _avaliableColors;
         public static Dictionary<string, int> _multipliers;
 
+        // EX 5
         static Colors()
         {
             _avaliableColors = new List<string> { "red", "blue", "green", "yellow", "gold" };

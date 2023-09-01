@@ -79,6 +79,7 @@ namespace CardGame
         }
     }
 
+    // EX6
     class GameLowestVariant : Game
     {
         public GameLowestVariant(List<Player> players, Deck deck) : base(players, deck) { }
