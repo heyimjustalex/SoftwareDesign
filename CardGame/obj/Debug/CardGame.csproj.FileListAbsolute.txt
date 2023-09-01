@@ -1,0 +1,14 @@
+E:\studia\Aarhus\Software Design\CardGame\CardGame\bin\Debug\CardGame.exe.config
+E:\studia\Aarhus\Software Design\CardGame\CardGame\bin\Debug\CardGame.exe
+E:\studia\Aarhus\Software Design\CardGame\CardGame\bin\Debug\CardGame.pdb
+E:\studia\Aarhus\Software Design\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+E:\studia\Aarhus\Software Design\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+E:\studia\Aarhus\Software Design\CardGame\CardGame\obj\Debug\CardGame.exe
+E:\studia\Aarhus\Software Design\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\root\Desktop\CardGame\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\root\Desktop\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\root\Desktop\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\root\Desktop\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\root\Desktop\CardGame\CardGame\bin\Debug\CardGame.pdb
