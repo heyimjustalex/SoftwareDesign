@@ -18,6 +18,9 @@ SRP
 
 OCP
 
+![image](https://github.com/heyimjustalex/SoftwareDesign/assets/21158649/1eb36604-b244-48fc-b282-ecd0b56b3376)
+
+
 - Report Formater has generic method that can accept List<T> and print Type.Properties
 - Report Formater accepts method to modify how output is printed
 - IReportFormater and ReportFormater are implemented in the specific formats (AgeLastFormat,NameFirstFormat, SalaryFirstFormat)
