@@ -12,3 +12,10 @@ C:\Users\root\Desktop\CardGame\CardGame\obj\Debug\CardGame.pdb
 C:\Users\root\Desktop\CardGame\CardGame\bin\Debug\CardGame.exe.config
 C:\Users\root\Desktop\CardGame\CardGame\bin\Debug\CardGame.exe
 C:\Users\root\Desktop\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\alex\Desktop\Studia\SoftwareDesign\Repo\Week 1\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\Repo\Week 1\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\Repo\Week 1\CardGame\obj\Debug\CardGame.exe
+C:\Users\alex\Desktop\Studia\SoftwareDesign\Repo\Week 1\CardGame\obj\Debug\CardGame.pdb
+C:\Users\alex\Desktop\Studia\SoftwareDesign\Repo\Week 1\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\alex\Desktop\Studia\SoftwareDesign\Repo\Week 1\CardGame\bin\Debug\CardGame.exe
+C:\Users\alex\Desktop\Studia\SoftwareDesign\Repo\Week 1\CardGame\bin\Debug\CardGame.pdb

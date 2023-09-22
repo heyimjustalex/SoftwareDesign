@@ -7,7 +7,7 @@ namespace CardGame
     class Deck
     {
         List<Card> _cards;
-        public List<Card> cards { get => _cards; set => _cards = value; }
+        private List<Card> cards { get => _cards; set => _cards = value; }
 
         public Deck(List<Card> cards)
         {

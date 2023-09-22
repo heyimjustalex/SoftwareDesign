@@ -1,0 +1,12 @@
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\bin\Debug\net5.0\CompressionStocking.deps.json
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\bin\Debug\net5.0\CompressionStocking.dll
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\bin\Debug\net5.0\ref\CompressionStocking.dll
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\bin\Debug\net5.0\CompressionStocking.pdb
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\CompressionStocking.csproj.AssemblyReference.cache
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\CompressionStocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\CompressionStocking.AssemblyInfoInputs.cache
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\CompressionStocking.AssemblyInfo.cs
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\CompressionStocking.csproj.CoreCompileInputs.cache
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\CompressionStocking.dll
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\ref\CompressionStocking.dll
+C:\softwaredesign\ex3\CompressionStocking\CompressionStocking\obj\Debug\net5.0\CompressionStocking.pdb
