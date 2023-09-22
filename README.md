@@ -21,17 +21,16 @@ SRP
 
 OCP
 
-![image](https://github.com/heyimjustalex/SoftwareDesign/assets/21158649/1eb36604-b244-48fc-b282-ecd0b56b3376)
+![UML](https://github.com/heyimjustalex/SoftwareDesign/assets/21158649/6255ac4b-c243-454c-af4f-23c8c74c9b11)
 
-
-- Report Formater has generic method that can accept List<T> and print Type.Properties
-- Report Formater accepts method to modify how output is printed
-- IReportFormater and ReportFormater are implemented in the specific formats (AgeLastFormat,NameFirstFormat, SalaryFirstFormat)
-- I could probably simplify it somehow so there is no both IReportFormater and ReportFormater, but IReportFormater was used by main solution
+- abstract class Report Formater has generic method that can accept List<T> and print Type.Properties
+- abstract class Report Formater accepts method to modify how output is printed
+- IReportFormater is implemented by abstract class ReportFormater
+- abstract class ReportFormater is implemented in the specific formats (AgeLastFormat,NameFirstFormat, SalaryFirstFormat)
 - (AgeLastFormat,NameFirstFormat, SalaryFirstFormat) use IFunctionFormater
 - IFunctionFormater is implemented by concrete formaters (FieldLastFormater : IFunctionFormater)
 
 All of these modifications result in OCP:
-- If I want to make new Format i just inherit from ReportFormater, IReportFormater (as long as there is just one field to be modified)
+- If I want to make new Format i just inherit from ReportFormater (as long as there is just one field to be modified)
 - If I want to make new fields of Employee it does not affect anything except for Employee Constructors (look at TestClassFieldThatMakesThisSolutionOCP example field)
 - If I want to make new Entity (except for Employee) it would not be hard (I would need to change IReportFormater to accept more generic type, but ReportFormater is already generic and able to print all class fields) 
