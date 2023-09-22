@@ -10,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace ex2.ReportFormats
 {
-    internal class AgeLastFormat : ReportFormater, IReportFormater
+    internal class AgeLastFormat : ReportFormater
     {       
 
-        public void printFormatedText(List<Employee> employees)
+        public override void printFormatedText(List<Employee> employees)
         {
             Console.WriteLine("Age-last report");
             IFunctionFormater f = new FieldLastFormater();

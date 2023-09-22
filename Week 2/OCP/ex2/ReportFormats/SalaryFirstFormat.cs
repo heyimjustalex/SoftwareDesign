@@ -8,9 +8,9 @@ using System.Reflection;
 
 namespace ex2.ReportFormats
 {
-    class SalaryFirstFormat : ReportFormater, IReportFormater
+    class SalaryFirstFormat : ReportFormater
     {          
-        public void printFormatedText(List<Employee> employees)
+        public override void printFormatedText(List<Employee> employees)
         {
             Console.WriteLine("Salary-first report");
             IFunctionFormater f = new FieldFirstFormater();

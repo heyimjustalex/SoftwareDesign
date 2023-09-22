@@ -8,8 +8,10 @@ using ex2.Entity;
 
 namespace ex2.ReportFormaters
 {
-    class ReportFormater
+    abstract class ReportFormater : IReportFormater
     {
+        public abstract void printFormatedText(List<Employee> employees);
+
         protected void printAllFieldsOfObject<T>(List<T>objects, Func<List<PropertyInfo>, List<PropertyInfo>> listOfFieldsCustomModificator = null)
         {
             if (listOfFieldsCustomModificator == null)

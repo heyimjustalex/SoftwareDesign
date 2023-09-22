@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\MyEx\\ex2-ocp\\ex2\\ex2.csproj",
+      "projectUniqueName": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\Repo\\Week 2\\OCP\\ex2\\ex2.csproj",
       "projectName": "ex2",
-      "projectPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\MyEx\\ex2-ocp\\ex2\\ex2.csproj",
+      "projectPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\Repo\\Week 2\\OCP\\ex2\\ex2.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\MyEx\\ex2-ocp\\ex2\\obj\\",
+      "outputPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\Repo\\Week 2\\OCP\\ex2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,7 +32,8 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {

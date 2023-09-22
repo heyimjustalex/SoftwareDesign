@@ -7,9 +7,9 @@ using ex2.ReportFormaters;
 
 namespace ex2.ReportFormats
 {
-    class NameFirstFormat : ReportFormater, IReportFormater
+    class NameFirstFormat : ReportFormater
     {
-        public void printFormatedText(List<Employee> employees)
+        public override void printFormatedText(List<Employee> employees)
         {
             Console.WriteLine("Name-first report");
             IFunctionFormater f = new FieldFirstFormater();
