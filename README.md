@@ -20,8 +20,7 @@ SRP
 - Implemented interface into two seperate formats NameFirstFormat and SalaryFirstFormat
 
 OCP
-
-![UML](https://github.com/heyimjustalex/SoftwareDesign/assets/21158649/6255ac4b-c243-454c-af4f-23c8c74c9b11)
+![800|UML2](https://github.com/heyimjustalex/SoftwareDesign/assets/21158649/6bc58537-f6fb-4e03-9838-b3c56dd172ec)
 
 - abstract class Report Formater has generic method that can accept List<T> and print Type.Properties
 - abstract class Report Formater accepts method to modify how output is printed
