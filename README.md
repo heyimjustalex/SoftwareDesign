@@ -15,6 +15,9 @@ SRP and OCP modifications of code.
 
 SRP
 
+- Modified ReportGenerator class - splitting two responsibilites (Generating report, and low-level "compiling")
+- Created Interface IReportFormater that is used by ReportGeneratorClient
+- Implemented interface into two seperate formats NameFirstFormat and SalaryFirstFormat
 
 OCP
 
