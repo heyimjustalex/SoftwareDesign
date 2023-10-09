@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\bin\Debug\net7.0\ObserverTeletubbies.exe
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\bin\Debug\net7.0\ObserverTeletubbies.deps.json
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\bin\Debug\net7.0\ObserverTeletubbies.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\bin\Debug\net7.0\ObserverTeletubbies.dll
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\bin\Debug\net7.0\ObserverTeletubbies.pdb
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ObserverTeletubbies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ObserverTeletubbies.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ObserverTeletubbies.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ObserverTeletubbies.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ObserverTeletubbies.dll
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\refint\ObserverTeletubbies.dll
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ObserverTeletubbies.pdb
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ObserverTeletubbies.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverTeletubbies\ObserverTeletubbies\obj\Debug\net7.0\ref\ObserverTeletubbies.dll

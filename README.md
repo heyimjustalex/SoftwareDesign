@@ -33,3 +33,34 @@ All of these modifications result in OCP:
 - If I want to make new Format i just inherit from ReportFormater (as long as there is just one field to be modified)
 - If I want to make new fields of Employee it does not affect anything except for Employee Constructors (look at TestClassFieldThatMakesThisSolutionOCP example field)
 - If I want to make new Entity (except for Employee) it would not be hard (I would need to change IReportFormater to accept more generic type, but ReportFormater is already generic and able to print all class fields) 
+
+
+### Week 7
+
+Exercise: Observer pattern
+
+Over the hills and far away…
+In these exercises, you will work with the observer design pattern.
+Tinky-Winky, Dipsy, La-la and Po live over the hills and far away.
+They have not yet learned how to tell time, but fortunately, there is a big “telephone” in the neighborhood, which tells
+them when to wake up, have dinner, and watch television and when to say tubbie-bye-bye.
+
+**Exercise 1: (Design)**
+Create a UML class diagram where you:
+• Define the methods and properties of the teletubbies.
+• Define the methods and properties of the big telephone.
+• Use the observer pattern to let the tubbies know when to have dinner etc.
+Explain your design to one or two of your fellow students.
+
+**Exercise 2: (Implementation)**
+Implement your design as a Console application.
+Control the telephone from the main() method and have the tubbies write to the console, when they know that they
+should do something new.
+
+**Pull Observer implementation**
+
+![Pull](./Week%207/ObserverTeletubbiesPull/class.PNG)
+
+**Push Observer implementation**
+
+![Push](./Week%207/ObserverTeletubbiesPush/class_uml.PNG)
