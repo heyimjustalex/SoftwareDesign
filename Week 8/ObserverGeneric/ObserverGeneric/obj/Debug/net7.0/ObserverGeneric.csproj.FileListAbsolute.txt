@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ObserverGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ObserverGeneric.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ObserverGeneric.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ObserverGeneric.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\bin\Debug\net7.0\ObserverGeneric.exe
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\bin\Debug\net7.0\ObserverGeneric.deps.json
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\bin\Debug\net7.0\ObserverGeneric.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\bin\Debug\net7.0\ObserverGeneric.dll
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\bin\Debug\net7.0\ObserverGeneric.pdb
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ObserverGeneric.dll
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\refint\ObserverGeneric.dll
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ObserverGeneric.pdb
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ObserverGeneric.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\SoftwareDesign\ObserverGeneric\ObserverGeneric\obj\Debug\net7.0\ref\ObserverGeneric.dll

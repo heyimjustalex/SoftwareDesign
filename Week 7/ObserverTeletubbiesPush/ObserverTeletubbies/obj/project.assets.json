@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\ObserverTeletubbiesPush\\ObserverTeletubbies\\ObserverTeletubbiesPush.csproj",
+      "projectUniqueName": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\Repo\\Week 7\\ObserverTeletubbiesPush\\ObserverTeletubbies\\ObserverTeletubbiesPush.csproj",
       "projectName": "ObserverTeletubbiesPush",
-      "projectPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\ObserverTeletubbiesPush\\ObserverTeletubbies\\ObserverTeletubbiesPush.csproj",
+      "projectPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\Repo\\Week 7\\ObserverTeletubbiesPush\\ObserverTeletubbies\\ObserverTeletubbiesPush.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\ObserverTeletubbiesPush\\ObserverTeletubbies\\obj\\",
+      "outputPath": "C:\\Users\\alex\\Desktop\\Studia\\SoftwareDesign\\Repo\\Week 7\\ObserverTeletubbiesPush\\ObserverTeletubbies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

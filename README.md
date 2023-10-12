@@ -64,3 +64,49 @@ should do something new.
 **Push Observer implementation**
 
 ![Push](./Week%207/ObserverTeletubbiesPush/class_uml.PNG)
+
+### Week 8
+
+**Exercise 1: Observer Generic implementation**
+
+![Push](./Week%208/ObserverGeneric/class.PNG)
+
+**Exercise 2: Observer generic Stock implementation**
+
+In this exercise, you will design a stock trading system in which stocks values are continuously updated and
+in which you can buy and sell stocks. Through this, you will get familiar with the use of the GoF Observer
+pattern.
+
+The situation: You are to design and implement a system, which consists of a number of parts:
+• Stocks, which live a life of their own. Their values are periodically updated, and when this happens,
+a Portfolio must be informed of the changes.
+• A Portfolio, which keeps track of the currently owned stocks (stock name, amount of stocks and
+value) and the total stock value.
+• A Portfolio Display, which is used to output information on the currently held portfolio.
+
+**Exercise 2.1:**
+Considering the GoF Observer pattern, what is/are the subject(s), and what is/are the observer(s) in the
+stock trading system?
+Which variant of GoF Observer is applicable – or would you rather create your own?
+
+**Exercise 2.2:**
+Design a system in which Stocks may be added to a Portfolio, which should then automatically be notified if
+the value of the Stock changes. When this happens, the Portfolio Display should make sure that the stocks
+in the portfolio are printed to screen.
+Changing stock values could be done from a command line interface, e.g. VESTAS 570.50 or GOOGLE:
+943.29.
+Create a design document, with a short description of your design and design choices and the class
+diagram(s) and sequence diagram(s) you need to explain your design (at least one of each).
+
+**Exercise 2.3:**
+Implement and test your system. As always, remember that any changes to the design discovered during
+implementation and/or test must be reflected in the design documentation (class diagram etc.)
+
+**Exercise 2.4:**
+Revise your system so that the stocks have a life of their own: They should update their values (e.g. within
+the range +/- 5%) at regular intervals.
+
+**Exercise 2.5 (optional):**
+Create a market from which it is possible to buy and sell stocks.
+
+
