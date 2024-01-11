@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\bin\Debug\net7.0\LightExampleSwitchCase.exe
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\bin\Debug\net7.0\LightExampleSwitchCase.deps.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\bin\Debug\net7.0\LightExampleSwitchCase.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\bin\Debug\net7.0\LightExampleSwitchCase.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\bin\Debug\net7.0\LightExampleSwitchCase.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\LightExampleSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\LightExampleSwitchCase.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\LightExampleSwitchCase.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\LightExampleSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\LightExampleSwitchCase.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\refint\LightExampleSwitchCase.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\LightExampleSwitchCase.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\LightExampleSwitchCase.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleSwitchCase\obj\Debug\net7.0\ref\LightExampleSwitchCase.dll

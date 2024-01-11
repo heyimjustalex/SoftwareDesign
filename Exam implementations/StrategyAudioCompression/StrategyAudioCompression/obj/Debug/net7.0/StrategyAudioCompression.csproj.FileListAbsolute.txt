@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\bin\Debug\net7.0\StrategyAudioCompression.exe
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\bin\Debug\net7.0\StrategyAudioCompression.deps.json
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\bin\Debug\net7.0\StrategyAudioCompression.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\bin\Debug\net7.0\StrategyAudioCompression.dll
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\bin\Debug\net7.0\StrategyAudioCompression.pdb
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\StrategyAudioCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\StrategyAudioCompression.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\StrategyAudioCompression.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\StrategyAudioCompression.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\StrategyAudioCompression.dll
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\refint\StrategyAudioCompression.dll
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\StrategyAudioCompression.pdb
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\StrategyAudioCompression.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\StrategyAudioCompression\StrategyAudioCompression\obj\Debug\net7.0\ref\StrategyAudioCompression.dll

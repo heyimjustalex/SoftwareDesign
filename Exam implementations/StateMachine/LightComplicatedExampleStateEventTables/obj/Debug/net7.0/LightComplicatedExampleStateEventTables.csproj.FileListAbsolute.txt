@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\bin\Debug\net7.0\LightComplicatedExampleStateEventTables.exe
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\bin\Debug\net7.0\LightComplicatedExampleStateEventTables.deps.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\bin\Debug\net7.0\LightComplicatedExampleStateEventTables.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\bin\Debug\net7.0\LightComplicatedExampleStateEventTables.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\bin\Debug\net7.0\LightComplicatedExampleStateEventTables.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\LightComplicatedExampleStateEventTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\LightComplicatedExampleStateEventTables.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\LightComplicatedExampleStateEventTables.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\LightComplicatedExampleStateEventTables.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\LightComplicatedExampleStateEventTables.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\refint\LightComplicatedExampleStateEventTables.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\LightComplicatedExampleStateEventTables.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\LightComplicatedExampleStateEventTables.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleStateEventTables\obj\Debug\net7.0\ref\LightComplicatedExampleStateEventTables.dll

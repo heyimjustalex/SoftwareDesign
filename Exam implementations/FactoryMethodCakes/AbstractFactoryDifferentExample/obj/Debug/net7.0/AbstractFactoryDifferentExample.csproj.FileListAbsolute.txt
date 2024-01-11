@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\bin\Debug\net7.0\AbstractFactoryDifferentExample.exe
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\bin\Debug\net7.0\AbstractFactoryDifferentExample.deps.json
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\bin\Debug\net7.0\AbstractFactoryDifferentExample.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\bin\Debug\net7.0\AbstractFactoryDifferentExample.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\bin\Debug\net7.0\AbstractFactoryDifferentExample.pdb
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\AbstractFactoryDifferentExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\AbstractFactoryDifferentExample.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\AbstractFactoryDifferentExample.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\AbstractFactoryDifferentExample.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\AbstractFactoryDifferentExample.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\refint\AbstractFactoryDifferentExample.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\AbstractFactoryDifferentExample.pdb
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\AbstractFactoryDifferentExample.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryDifferentExample\obj\Debug\net7.0\ref\AbstractFactoryDifferentExample.dll

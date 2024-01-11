@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\StrategyImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\StrategyImage.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\StrategyImage.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\StrategyImage.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\bin\Debug\net7.0\StrategyImage.exe
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\bin\Debug\net7.0\StrategyImage.deps.json
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\bin\Debug\net7.0\StrategyImage.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\bin\Debug\net7.0\StrategyImage.dll
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\bin\Debug\net7.0\StrategyImage.pdb
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\StrategyImage.dll
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\refint\StrategyImage.dll
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\StrategyImage.pdb
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\StrategyImage.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\StrategyImage\StrategyImage\obj\Debug\net7.0\ref\StrategyImage.dll

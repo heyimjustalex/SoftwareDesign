@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\bin\Debug\net7.0\AbstractFactoryCakeYoghurt.exe
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\bin\Debug\net7.0\AbstractFactoryCakeYoghurt.deps.json
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\bin\Debug\net7.0\AbstractFactoryCakeYoghurt.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\bin\Debug\net7.0\AbstractFactoryCakeYoghurt.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\bin\Debug\net7.0\AbstractFactoryCakeYoghurt.pdb
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\AbstractFactoryCakeYoghurt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\AbstractFactoryCakeYoghurt.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\AbstractFactoryCakeYoghurt.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\AbstractFactoryCakeYoghurt.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\AbstractFactoryCakeYoghurt.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\refint\AbstractFactoryCakeYoghurt.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\AbstractFactoryCakeYoghurt.pdb
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\AbstractFactoryCakeYoghurt.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\AbstractFactoryCakeYoghurt\obj\Debug\net7.0\ref\AbstractFactoryCakeYoghurt.dll

@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\bin\Debug\net7.0\ObserverPushVariant.exe
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\bin\Debug\net7.0\ObserverPushVariant.deps.json
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\bin\Debug\net7.0\ObserverPushVariant.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\bin\Debug\net7.0\ObserverPushVariant.dll
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\bin\Debug\net7.0\ObserverPushVariant.pdb
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ObserverPushVariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ObserverPushVariant.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ObserverPushVariant.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ObserverPushVariant.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ObserverPushVariant.dll
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\refint\ObserverPushVariant.dll
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ObserverPushVariant.pdb
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ObserverPushVariant.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\ObserverPushVariant\ObserverPushVariant\obj\Debug\net7.0\ref\ObserverPushVariant.dll

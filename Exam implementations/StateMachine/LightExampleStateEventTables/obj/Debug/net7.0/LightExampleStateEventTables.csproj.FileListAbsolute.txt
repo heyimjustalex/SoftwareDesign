@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\bin\Debug\net7.0\LightExampleStateEventTables.exe
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\bin\Debug\net7.0\LightExampleStateEventTables.deps.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\bin\Debug\net7.0\LightExampleStateEventTables.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\bin\Debug\net7.0\LightExampleStateEventTables.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\bin\Debug\net7.0\LightExampleStateEventTables.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\LightExampleStateEventTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\LightExampleStateEventTables.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\LightExampleStateEventTables.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\LightExampleStateEventTables.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\LightExampleStateEventTables.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\refint\LightExampleStateEventTables.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\LightExampleStateEventTables.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\LightExampleStateEventTables.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightExampleStateEventTables\obj\Debug\net7.0\ref\LightExampleStateEventTables.dll

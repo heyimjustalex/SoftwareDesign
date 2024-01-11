@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\bin\Debug\net7.0\LightComplicatedExampleGofState.exe
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\bin\Debug\net7.0\LightComplicatedExampleGofState.deps.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\bin\Debug\net7.0\LightComplicatedExampleGofState.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\bin\Debug\net7.0\LightComplicatedExampleGofState.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\bin\Debug\net7.0\LightComplicatedExampleGofState.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\LightComplicatedExampleGofState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\LightComplicatedExampleGofState.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\LightComplicatedExampleGofState.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\LightComplicatedExampleGofState.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\LightComplicatedExampleGofState.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\refint\LightComplicatedExampleGofState.dll
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\LightComplicatedExampleGofState.pdb
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\LightComplicatedExampleGofState.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\StateMachine\LightComplicatedExampleGofState\obj\Debug\net7.0\ref\LightComplicatedExampleGofState.dll

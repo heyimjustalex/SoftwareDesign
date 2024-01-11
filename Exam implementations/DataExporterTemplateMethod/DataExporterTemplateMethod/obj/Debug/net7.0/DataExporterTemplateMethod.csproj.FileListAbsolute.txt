@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\bin\Debug\net7.0\DataExporterTemplateMethod.exe
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\bin\Debug\net7.0\DataExporterTemplateMethod.deps.json
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\bin\Debug\net7.0\DataExporterTemplateMethod.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\bin\Debug\net7.0\DataExporterTemplateMethod.dll
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\bin\Debug\net7.0\DataExporterTemplateMethod.pdb
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\DataExporterTemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\DataExporterTemplateMethod.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\DataExporterTemplateMethod.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\DataExporterTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\DataExporterTemplateMethod.dll
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\refint\DataExporterTemplateMethod.dll
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\DataExporterTemplateMethod.pdb
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\DataExporterTemplateMethod.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\DataExporterTemplateMethod\DataExporterTemplateMethod\obj\Debug\net7.0\ref\DataExporterTemplateMethod.dll

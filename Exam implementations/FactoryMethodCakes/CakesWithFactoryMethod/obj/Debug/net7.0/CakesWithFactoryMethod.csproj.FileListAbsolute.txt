@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\bin\Debug\net7.0\CakesWithFactoryMethod.exe
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\bin\Debug\net7.0\CakesWithFactoryMethod.deps.json
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\bin\Debug\net7.0\CakesWithFactoryMethod.runtimeconfig.json
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\bin\Debug\net7.0\CakesWithFactoryMethod.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\bin\Debug\net7.0\CakesWithFactoryMethod.pdb
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\CakesWithFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\CakesWithFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\CakesWithFactoryMethod.AssemblyInfo.cs
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\CakesWithFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\CakesWithFactoryMethod.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\refint\CakesWithFactoryMethod.dll
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\CakesWithFactoryMethod.pdb
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\CakesWithFactoryMethod.genruntimeconfig.cache
+C:\Users\alex\Desktop\Studia\FactoryMethodCakes\CakesWithFactoryMethod\obj\Debug\net7.0\ref\CakesWithFactoryMethod.dll
